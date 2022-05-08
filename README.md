@@ -1,6 +1,6 @@
-# Nutrient Analysis - Team 19 - 11785 S22 Project
+# Nutrient Analysis - Team 76 - 11785 S22 Project
 
-This is the code repository of Team 19's project on Nutrient Analysis, for the S22 course 11785 - Introduction to Deep Learning at CMU.
+This is the code repository of Team 76's project on Nutrient Analysis, for the S22 course 11785 - Introduction to Deep Learning at CMU.
 
 ## Structure
 
