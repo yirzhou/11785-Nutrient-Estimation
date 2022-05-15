@@ -4,6 +4,7 @@ This is the code repository of Team 76's project on Nutrient Analysis, for the S
 
 ## Structure
 
+- [T76_NutrientAnalysis.pdf](./T76_NutrientAnalysis.pdf): report that details the problem statement, motivation, architectures, implementations, results and their analysis, and conclusion of the project.
 - results: evaluation of models' performance.
 - sample_data: some sample data used for training and testing.
 - src: The notebook file that contains implementation of the dataset, the models, the multi-task loss function, and evaluation. Each cell has an associated text element in markdown so everything should be fairly self-explanatory.
